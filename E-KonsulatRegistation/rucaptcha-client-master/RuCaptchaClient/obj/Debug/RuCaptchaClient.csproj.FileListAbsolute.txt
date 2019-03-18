@@ -1,0 +1,6 @@
+C:\Kahovsky\E-KonsulatRegistation\rucaptcha-client-master\RuCaptchaClient\bin\Debug\RuCaptchaClient.dll
+C:\Kahovsky\E-KonsulatRegistation\rucaptcha-client-master\RuCaptchaClient\bin\Debug\RuCaptchaClient.pdb
+C:\Kahovsky\E-KonsulatRegistation\rucaptcha-client-master\RuCaptchaClient\obj\Debug\RuCaptchaClient.csprojAssemblyReference.cache
+C:\Kahovsky\E-KonsulatRegistation\rucaptcha-client-master\RuCaptchaClient\obj\Debug\RuCaptchaClient.csproj.CoreCompileInputs.cache
+C:\Kahovsky\E-KonsulatRegistation\rucaptcha-client-master\RuCaptchaClient\obj\Debug\RuCaptchaClient.dll
+C:\Kahovsky\E-KonsulatRegistation\rucaptcha-client-master\RuCaptchaClient\obj\Debug\RuCaptchaClient.pdb

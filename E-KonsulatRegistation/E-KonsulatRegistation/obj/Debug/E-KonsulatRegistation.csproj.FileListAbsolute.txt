@@ -1,0 +1,10 @@
+C:\Kahovsky\E-KonsulatRegistation\E-KonsulatRegistation\bin\Debug\E-KonsulatRegistation.exe.config
+C:\Kahovsky\E-KonsulatRegistation\E-KonsulatRegistation\bin\Debug\E-KonsulatRegistation.exe
+C:\Kahovsky\E-KonsulatRegistation\E-KonsulatRegistation\bin\Debug\E-KonsulatRegistation.pdb
+C:\Kahovsky\E-KonsulatRegistation\E-KonsulatRegistation\bin\Debug\RuCaptchaClient.dll
+C:\Kahovsky\E-KonsulatRegistation\E-KonsulatRegistation\bin\Debug\RuCaptchaClient.pdb
+C:\Kahovsky\E-KonsulatRegistation\E-KonsulatRegistation\obj\Debug\E-KonsulatRegistation.csprojAssemblyReference.cache
+C:\Kahovsky\E-KonsulatRegistation\E-KonsulatRegistation\obj\Debug\E-KonsulatRegistation.csproj.CoreCompileInputs.cache
+C:\Kahovsky\E-KonsulatRegistation\E-KonsulatRegistation\obj\Debug\E-KonsulatRegistation.csproj.CopyComplete
+C:\Kahovsky\E-KonsulatRegistation\E-KonsulatRegistation\obj\Debug\E-KonsulatRegistation.exe
+C:\Kahovsky\E-KonsulatRegistation\E-KonsulatRegistation\obj\Debug\E-KonsulatRegistation.pdb
